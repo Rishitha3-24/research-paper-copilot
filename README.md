@@ -160,30 +160,6 @@ This improves accuracy, relevance, and trustworthiness of responses.
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Upload PDF Screen
-- Chat Interface
-- Citation Responses
-- Paper Summary
-- PDF Viewer
-
-Example:
-
-```
-screenshots/
-├── homepage.png
-├── upload.png
-├── summary.png
-├── chat.png
-├── citations.png
-```
-
----
-
 ## 🎯 Future Improvements
 
 - Support multiple research papers
