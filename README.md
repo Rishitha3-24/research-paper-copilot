@@ -212,4 +212,4 @@ B.Tech Computer Science (AI & ML)
 
 GitHub: https://github.com/Rishitha3-24
 
-LinkedIn: *(Add your LinkedIn profile here)*
+
